@@ -7,5 +7,5 @@ Data structures and algorithms<br>
 Object-oriented programming<br>
 Python libraries (NumPy, pandas, Matplotlib, etc.)<br>
 Advanced topics like decorators, generators, and more<br>
-Practical projects and real-world examples<br>
+Practical projects and real-world examples<br><br><br>
 Whether you're a beginner or an experienced developer, this repository is your go-to guide for mastering Python. Contributions and suggestions are welcome!
